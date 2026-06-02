@@ -1,0 +1,30 @@
+SafeAI Internal AI Usage Policy v1.0
+
+1. Acceptable Use
+All AI-assisted queries must relate to legitimate banking operations.
+Employees must not input customer personal data into AI systems without
+explicit redaction controls in place. AI outputs must be verified by a
+qualified human before being used in any customer-facing decision.
+
+2. Data Handling
+No personally identifiable information including names, account numbers,
+national ID numbers, card details, or transaction histories may be entered
+into AI prompts in unredacted form. Violation of this policy constitutes
+a data breach under GDPR Article 32 and internal disciplinary procedures
+will apply.
+
+3. Prohibited Actions
+Employees must not attempt to override, bypass, or manipulate AI system
+instructions. Prompt injection attempts will be logged and escalated to
+the compliance team. Repeated violations will result in access revocation.
+
+4. Audit and Compliance
+All AI interactions are logged with timestamps, risk scores, and response
+faithfulness ratings. These logs are available for regulatory inspection
+upon request and are retained for a minimum of seven years in accordance
+with FCA record-keeping requirements.
+
+5. Escalation
+Any AI response that appears incorrect, harmful, or non-compliant must be
+reported immediately to the compliance team. Do not act on AI outputs that
+conflict with established bank policy or regulatory requirements.
